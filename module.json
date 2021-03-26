@@ -25,6 +25,11 @@
           "path": "lang/fr.json"
         },
         {
+          "lang": "ar",
+          "name": "Arabic",
+          "path": "lang/ar.json"
+        },
+        {
 			"lang": "pt-BR",
 			"name": "Português (Brasil)",
 			"path": "lang/pt-BR.json"
